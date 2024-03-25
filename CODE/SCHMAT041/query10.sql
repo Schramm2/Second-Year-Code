@@ -1,0 +1,1 @@
+select sum(quantityInStock) AS total from products

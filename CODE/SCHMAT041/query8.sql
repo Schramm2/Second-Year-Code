@@ -1,0 +1,1 @@
+select orderNumber, coalesce(shippedDate, requiredDate, orderDate) AS day from orders

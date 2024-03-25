@@ -1,0 +1,1 @@
+Select distinct city AS city from offices

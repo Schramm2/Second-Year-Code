@@ -1,0 +1,1 @@
+Select AVG(quantityInStock) as mean from products
