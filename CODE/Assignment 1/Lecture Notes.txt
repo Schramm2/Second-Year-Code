@@ -1,3 +1,0 @@
-Assignment 1 Notes
-
-The bigger your Problem size the better speed up you expect.
